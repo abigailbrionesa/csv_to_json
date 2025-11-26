@@ -1,0 +1,38 @@
+[
+  {
+    "spkid": 20000433,
+    "full_name": "433 Eros (A898 PA)",
+    "pdes": 433,
+    "neo": "Y",
+    "pha": "N",
+    "H": 10.38,
+    "G": 0.46,
+    "diameter": 16.84,
+    "albedo": 0.25,
+    "orbit_id": "JPL 659"
+  },
+  {
+    "spkid": 20000719,
+    "full_name": "719 Albert (A911 TB)",
+    "pdes": 719,
+    "neo": "Y",
+    "pha": "N",
+    "H": 15.59,
+    "G": null,
+    "diameter": null,
+    "albedo": null,
+    "orbit_id": null
+  },
+  {
+    "spkid": 20000871,
+    "full_name": "871 Amneris (A917 SC)",
+    "pdes": 871,
+    "neo": "N",
+    "pha": "N",
+    "H": 12.3,
+    "G": 0.15,
+    "diameter": 8.2,
+    "albedo": 0.2,
+    "orbit_id": "JPL 123"
+  }
+]
